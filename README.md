@@ -1,4 +1,5 @@
-### Welcome to my GitHub Account 👋
+                                                                <h1 align="center">Welcome to my GitHub Account 👋</h1>
+                                                                          <hr>
 
 <code><img src="https://img.shields.io/badge/Thinking-Out of the box-Blue"></code><code><img src="https://img.shields.io/badge/Passion-Coding-Blue"></code><code><img src="https://img.shields.io/badge/Mentality-Stoic-red"></code><code><img src="https://img.shields.io/badge/Interests-Charity-Blue"></code>
 
