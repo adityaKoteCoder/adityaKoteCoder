@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Selenium through Python 
 - 👯 I’m am learning new concepts and willing to learn new concepts.
 - 🤔 I’m looking for a job and i am ready to be hired.
-- 📫 How to reach me: akstr17official@gmail.com
+- 📫 ...............................
 - ⚡ Greetings: Make yourself at home. 
 
 
