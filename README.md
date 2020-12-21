@@ -22,13 +22,12 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> 
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png">
-<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></p>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg"></p>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg"></p>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeindesign.svg"></p>
-<img width="40" height="40" src="https://simpleicons.org/icons/adobepremierepro.svg"></p>
+<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+<img width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg">
+<img width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg">
+<img width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeindesign.svg">
+<img width="40" height="40" src="https://simpleicons.org/icons/adobepremierepro.svg">
 <img width="40" height="40" src="https://simpleicons.org/icons/adobeaftereffects.svg"></p>
-</code>
 
 
 <p align="center">Connect with me:</p>
