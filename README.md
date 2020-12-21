@@ -4,8 +4,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Thinking-Out of the box-green">
   <img src="https://img.shields.io/badge/Passion-Coding & Designing-blue">
-  <img src="https://img.shields.io/badge/Mentality-Stoic-red">
   <img src="https://img.shields.io/badge/Interests-Charity-white">
+  <img src="https://img.shields.io/badge/Mentality-Stoic-red">
 </p>
 
 
