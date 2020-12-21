@@ -28,7 +28,7 @@
 <img width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeindesign.svg"></p>
 <img width="40" height="40" src="https://simpleicons.org/icons/adobepremierepro.svg"></p>
 <img width="40" height="40" src="https://simpleicons.org/icons/adobeaftereffects.svg"></p>
-
+</code>
 
 
 <p align="center">Connect with me:</p>
