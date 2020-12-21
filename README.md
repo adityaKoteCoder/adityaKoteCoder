@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Thinking-Out of the box-Blue">
-  <img src="https://img.shields.io/badge/Passion-Coding-Blue">
+  <img src="https://img.shields.io/badge/Passion-Coding & Designing-Blue">
   <img src="https://img.shields.io/badge/Mentality-Stoic-red">
   <img src="https://img.shields.io/badge/Interests-Charity-Blue">
 </p>
