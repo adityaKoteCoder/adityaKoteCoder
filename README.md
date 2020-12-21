@@ -7,9 +7,9 @@
 *Here are some ideas to get you started:*
 
 - 🔭 I’m currently working on my programming skills 
-- 🌱 I’m currently learning Selenium through Python 
+- 🌱 I’m currently learning Designing. 
 - 👯 I’m am learning new concepts and willing to learn new concepts.
-- 🤔 I’m looking for a job and i am ready to be hired.
+- 🤔 I’m also a creative designer.
 - 📫 ...............................
 - ⚡ Greetings: Make yourself at home. 
 
