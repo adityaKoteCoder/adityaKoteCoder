@@ -6,12 +6,13 @@
 
 *Here are some ideas to get you started:*
 
-- 🔭 I’m currently working on my programming skills 
-- 🌱 I’m currently learning Selenium through Python 
-- 👯 I’m am learning new concepts and willing to learn new concepts.
-- 🤔 I’m looking for a job and i am ready to be hired.
-- 📫 My YouTube channel: https://www.youtube.com/channel/UCUdqfNy2TibEwrByYRczbCA
 - ⚡ Greetings: Make yourself at home. 
+- 🔭 I’m currently working on my programming skills 
+- 🌱 I’m currently learning web and graphic designing.
+- 👯 I’m am learning new concepts and willing to learn new concepts.
+- 🤔 I’m also a creative designer
+- 📫 My YouTube channel: https://www.youtube.com/channel/UCUdqfNy2TibEwrByYRczbCA
+
 
 
 <p align="center">Languages and Tools:</p> 
@@ -20,10 +21,17 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> 
-<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png">
-<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></p>   
+<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></p>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg"></p>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg"></p>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeindesign.svg"></p>
+<img width="40" height="40" src="https://simpleicons.org/icons/adobepremierepro.svg"></p>
+<img width="40" height="40" src="https://simpleicons.org/icons/adobeaftereffects.svg"></p>
+
+
 
 <p align="center">Connect with me:</p>
 
 <p align="center"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></p>
+<p align="center"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></p>
