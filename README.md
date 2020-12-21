@@ -2,10 +2,10 @@
                                                                           
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Thinking-Out of the box-Blue">
+  <img src="https://img.shields.io/badge/Thinking-Out of the box-green">
   <img src="https://img.shields.io/badge/Passion-Coding & Designing-Blue">
   <img src="https://img.shields.io/badge/Mentality-Stoic-red">
-  <img src="https://img.shields.io/badge/Interests-Charity-Blue">
+  <img src="https://img.shields.io/badge/Interests-Charity-white">
 </p>
 
 
@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning web and graphic designing.
 - 👯 I’m am learning new concepts and willing to learn new concepts.
 - 🤔 I’m also a creative designer
-- 📫 My YouTube channel: https://www.youtube.com/channel/UCUdqfNy2TibEwrByYRczbCA
+- 📫 My YouTube channel:https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white https://www.youtube.com/channel/UCUdqfNy2TibEwrByYRczbCA
 
 
 
