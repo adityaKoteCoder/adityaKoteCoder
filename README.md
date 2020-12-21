@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning web and graphic designing.
 - 👯 I’m am learning new concepts and willing to learn new concepts.
 - 🤔 I’m also a creative designer
-- 📫 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">                                https://www.youtube.com/channel/UCUdqfNy2TibEwrByYRczbCA
+- 📫 My YouTube channel: https://www.youtube.com/channel/UCUdqfNy2TibEwrByYRczbCA
 
 
 
@@ -41,5 +41,5 @@
 
 <p align="center">
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
