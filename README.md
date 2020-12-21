@@ -12,10 +12,10 @@
 *Here are some ideas to get you started:*
 
 - ⚡ Greetings: Make yourself at home. 
-- 🔭 I’m currently working on my programming skills 
-- 🌱 I’m currently learning web and graphic designing.
+- 🔭 I’m currently learning web and graphic designing 
+- 🌱 I’m also a creative designer and a avid gamer.
 - 👯 I’m am learning new concepts and willing to learn new concepts.
-- 🤔 I’m also a creative designer
+- 🤔 I would love to get your feedback of my profile
 - 📫 My YouTube channel: https://www.youtube.com/channel/UCUdqfNy2TibEwrByYRczbCA
 
 
